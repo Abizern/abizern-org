@@ -18,7 +18,7 @@ markup:
 
 params:
   # Subtitle of the website
-  subtitle: "My opinions and £1 will get you a small cup of coffee."
+  subtitle: "We're all just specks on a Pale Blue Dot."
   favicon: "./favicon.ico"
   touchicon: "./apple-touch-icon.png"
   # Dark code highlighting
