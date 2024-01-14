@@ -27,7 +27,7 @@ I am a freelance iOS and macOS developer in London. This is my personal, rather 
 
 I've been publishing to this domain since 2009, but it's been a mix of personal and technical posts. The mix of the two has bothered me for a while and prevented me from posting as much as I would like to.
 
-There is a concept in called [[https://www.emacswiki.org/emacs/DotEmacsBankruptcy][Dot Emacs Bankruptcy]]{{{sidenote(I know this because I've had to rewrite my .emacs.d file a couple of times.)}}} where your work has gotten so large and crufty it just makes sense to start again. That's what I am doing here. I'm going to be moving my technical posts{{{sidenote(The ones that haven't dated\, or aren't embarrassing)}}} to a new site{{{sidenote([https://abizern.dev](https://abizern.dev))}}} and keeping this for everything else.
+There is a concept in called [[https://www.emacswiki.org/emacs/DotEmacsBankruptcy][Dot Emacs Bankruptcy]]{{{sidenote(I know this because I've had to rewrite my .emacs.d file a couple of times.)}}} where your work has gotten so large and crufty it just makes sense to start again. That's what I am doing here. I'm going to be moving my technical posts{{{sidenote(The ones that aren't outdated\, or embarrassing)}}} to a new site{{{sidenote([https://abizern.dev](https://abizern.dev))}}} and keeping this for everything else.
 
 ** Site Comments
 There are no comments on this site. Rather - there are no unmoderated comments on this site. I used to have a Wordpress blog with comments, but the signal got drowned out in the noise. Feel free to email me instead; I might even edit my posts to take account of feedback.
