@@ -10,7 +10,7 @@ Since the theme is a submodule be sure to run =git submodule update --init= as r
 
 ** Content
 
-All content is in the Content.org file, [[https://hugo-tufte.netlify.app/posts/tufte-css/][ox-hugo]] is used to turn this big ass text file into the individual Markdown files that Hugo uses to generate content.
+All content is in the Content.org file, [[https://hugo-tufte.netlify.app/posts/tufte-css/][ox-hugo]] is used to turn this _big ass text file_ into the individual Markdown files that Hugo uses to generate content.
 
 The theme is based around [[https://hugo-tufte.netlify.app/posts/tufte-css/][tufte-css]].
 
@@ -42,6 +42,8 @@ I have YASnippets set up for this in Markdown and there should be Org-Mode macro
 
 - ={{<marginnote>}} content {{</marginnote}}=
 - ={{<sidenote>}} content {{</sidenote}}=
+
+There may be some characters that need escaping in sidenotss (such as commas) and multiple paragraphs are not supported.
 
 *** Math
 
