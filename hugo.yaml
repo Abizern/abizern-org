@@ -25,7 +25,7 @@ params:
   codeblocksdark: false
   # Customize the indicator for margin notes
   # Some suggestions: ⊕, 💬, 💭, 📑, 🏷, ✍, 💡, 🧐, 📎, 📌
-  marginNoteInd: "💬"
+  marginNoteInd: "📌"
   # Your name or the name of you company
   copyright: © 2023-2004 Abizer Nasir <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
   copyrightHolder:  Abizer Nasir
@@ -51,6 +51,7 @@ params:
   # github: Abizern
   linkedin: abizern
   twitter: abizern
+  mastodon: mastodon.social/@abizern
   # youtube: user/ChromeDevelopers # check the end of your youtube url https://www.youtube.com/<copy_this>
 
   # stackoverflow: 41116/abizern

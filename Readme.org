@@ -1,12 +1,14 @@
 * abizern.org site generated with Hugo using the hugo-tufte template
 
-Personal blog build with Hugo and hugo-tufte. Not so many bells and whistles, I want to try and stick to a content-centric approach.
+Personal blog built with Hugo and the hugo-tufte theme. Not so many bells and whistles, the focus should be on the content.
 
 Served from my Dreamhost account.
 
 ** Installation
 
 Since the theme is a submodule be sure to run =git submodule update --init= as required.
+
+I'm using my fork of the upstream with some additions.
 
 ** Content
 
@@ -63,6 +65,7 @@ Uses the hugo-tufte theme that, added as a submodule so that I'm not a hostage t
 ** Generation and Deployment
 
 - Clear the =content= folder to remove the generated markdown documents.
+- Optionally clear the =public= folder - it will get regenerated.
 - Generate the content from the =Content.org= file using =C-c C-e H A=.
 - Generate the site by running =hugo --gc --minify= from the root of the project.
 - FTP the contents of the =public= folder to the correct place on Dreamhost.
